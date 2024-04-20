@@ -1,10 +1,2 @@
 # Cashier-Register-Application
- (Cash  Register Application) Use  the  numeric  keypad to  build  a Cash  Register application.  
- In  addition  to  numbers,  the  cash  registershould  include  a  decimal  point Button.  
- Apart  from  this numeric operation, there shouldbe Enter, Delete, Clear and Total Buttons. 
- Sales tax should be calculated on  the  amount  purchased.
- Compute  sales  tax.  Add  the  tax  amount  to  the  subtotal  tocalculate  the  total. 
- Display the tax and total for the user. Use the following sales-tax percentages,which are based on the amount of money spent:
- Amounts under $100 = 5% (.05) sales tax 
- Amounts between $100 and $499 = 7.5% (.075) sales tax
- Amounts above $499 = 10% (.10) sales tax
+The Cash Register Application features a numeric keypad interface that includes a decimal point for precise input of values. Alongside, essential transaction controls such as Enter, Delete, and Clear Buttons facilitate accurate entries and adjustments, ensuring a seamless user experience. One of its standout features is the automatic sales tax calculation, which dynamically applies tiered tax rates based on the purchase amount, offering transparency and accuracy in financial transactions. Furthermore, the application computes the subtotal, sales tax, and total amount due, providing users with a comprehensive overview of their transactions. Developed in C#, the application benefits from the language's robust features and libraries, ensuring reliability and scalability. 
